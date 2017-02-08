@@ -38,8 +38,8 @@
 }
 
 html {
-    width: 100%;
-    margin: 0 10px;
+    width: 1140px;
+    margin: 0 auto;
     /*background-color: rgba(60, 73, 85, 0.86);*/
 }
 
@@ -148,7 +148,7 @@ button {
 }
 
 .container {
-    width: 100%;
+    width: inherit;
     height: 1050px;
     background-color: white;
 }
@@ -359,6 +359,7 @@ button {
 
 .cont3 {
     margin-top: 0;
+
 
 }
 
